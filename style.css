@@ -1,0 +1,220 @@
+*{
+    font-family: "Montserrat", serif;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.dialog-wrapper {
+    display: none !important;
+}
+
+.wrap,#main {
+    height: 100vh;
+    margin: 0 !important;
+}
+
+iframe{
+    display: none;
+}
+
+
+html,body {
+    height: 100%;
+}
+
+header a {
+    color: white;
+    background-color: #32064a;
+    font-size: 20px;
+    text-decoration: none;
+    border: 4px solid #32064a;
+    border-radius: 10px;
+}
+
+body{
+    background-color:#e56b1f; #32064a - фіолетовий
+}
+
+.img-1{
+    width: 700px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.img-1:hover{
+    width: 800px;
+    height: 240px;
+    transition: 0.5s ease-out;
+}
+
+.img-2{
+    width: 600px;
+    height: 250px;
+    text-align: center;
+    transition: 0.5s;
+}
+
+.img-2:hover{
+    text-align: center;
+    width: 700px;
+    height: 300px;
+    transition: 0.5s ease-in-out;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+.p-1{
+    font-size: 20px;   
+    color: white;
+    text-align: center;
+}
+
+main{
+    background-color: #32064a;
+   
+
+}
+
+.buy{
+    background-color: #32064a;
+    color: white;
+    text-align: center;
+    border-radius: 3px solid ;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.p-2{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.img-3{
+    width: 400px;
+    height: 200px;
+    transition: 0.4s;
+}
+
+.img-3:hover{
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    transition: 0.4s ease-in;
+}
+
+header{
+    text-align: center;
+
+}
+
+.p-3{
+    text-align: center;
+
+}
+
+div, h2{
+    color: white;
+    text-align: center;
+}
+
+.phone{
+    background-color: #32064a;
+    color: white;
+    border-radius: 3px solid ;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.div-4{
+    background-color: #e56b1f;
+
+}
+
+.img-4{
+    width: 350px;
+    height: 220px;
+    transition: 0.4s;
+}
+
+.img-4:hover{
+    width: 400px;
+    height: 250px;
+    transition: 0.5s ease-in-out;
+}
+
+.img-5{
+    width: 330px;
+    height: 220px;
+    transition: 0.4s;
+}
+
+.img-5:hover{
+    width: 370px;
+    height: 250px;
+    transition: 0.5s ease-in-out;
+}
+
+.img-6{
+    width: 500px;
+    height: 180px;
+    text-align: center;
+    transition: 0.5s;
+}
+
+.img-6:hover{
+    text-align: center;
+    width: 600px;
+    height: 220px;
+    transition: 0.5s ease-in-out;
+}
+
+footer{
+    background-image: linear-gradient(to bottom, #218795, #32064a);
+    color: white;
+    text-align: center;
+}
+
+nav a{
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+nav a:hover{
+    left: 0;
+}
+
+.projects{
+    margin-top: 140px;
+    background-color: #6102af;
+
+}
+
+.contact{
+    
+   margin-top: 200px;
+    background-color: #6102af;
+
+
+}
+
+nav{
+    position: fixed;
+
+}
+
